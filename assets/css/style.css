@@ -1,0 +1,26 @@
+body {
+    font-family: "Fredoka";
+    font-weight: 400;
+    color: #ffffff
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.card img {
+    max-height: 150px;
+}
+
+.carousel-item img {
+    max-height: 100vh;
+}
+
+.nav-black {
+    background-color: #000;
+    color: #fff;
+}
