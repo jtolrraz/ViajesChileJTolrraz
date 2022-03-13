@@ -1,9 +1,10 @@
-body {
+body { /* acá afectamos a todo el body con la fuente Fredoka*/
     font-family: "Fredoka";
     font-weight: 400;
     color: #ffffff
 }
 
+/* se ponen en mayusculas*/
 h4{
     text-transform: uppercase;
 }
